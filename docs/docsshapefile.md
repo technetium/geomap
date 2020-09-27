@@ -1,8 +1,12 @@
 ---
-layout: post
-title: Blogging Like a Hacker
-description: bla bla
+page.title: Blogging Like a Hacker
+page.description: bla bla
 ---
+
+layout: post
+
+
+
 fpoo bar
 
 # shapefile
