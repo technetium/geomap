@@ -4,4 +4,6 @@
 Bla bla Fo bar
 
 
-[shapefile.md]
+[I'm an inline-style link](https://www.google.com)
+
+[Shapefile](shapefile.md)
