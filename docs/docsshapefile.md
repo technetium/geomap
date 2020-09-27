@@ -1,8 +1,8 @@
 ---
 page.title: Blogging Like a Hacker
 page.description: Page description
-title: Title zonder page
-description: bla bla zonder page
+title: Creating static [Choropleth map](https://en.wikipedia.org/wiki/Choropleth_map) images with [Mapbox](https://www.mapbox.com/) and [Shapefiles](https://en.wikipedia.org/wiki/Shapefile)
+description: An alternative to [Google map charts](https://developers.google.com/chart/image/docs/gallery/new_map_charts)
 ---
 
 layout: post
