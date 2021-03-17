@@ -2,3 +2,7 @@
 #theme: jekyll-theme-primer
 title: Creating static [Choropleth map](https://en.wikipedia.org/wiki/Choropleth_map) images with [Mapbox](https://www.mapbox.com/) and [Shapefiles](https://en.wikipedia.org/wiki/Shapefile).
 description: An alternative to [Google map charts](https://developers.google.com/chart/image/docs/gallery/new_map_charts).
+
+username: "your username"
+code: blabla
+prikey: sdfghtwr6hwrh
