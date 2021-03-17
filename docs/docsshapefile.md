@@ -21,6 +21,6 @@ bla bla shape file
 ```pyton
 
 # Set usernam
-username = {{ system.username }}
+username = {{ site.username }}
 
 ```
