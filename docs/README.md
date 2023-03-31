@@ -11,3 +11,4 @@ Bla bla Fo bar
 <tag />
 
 <tag>Tag</tag>
+{.class}
